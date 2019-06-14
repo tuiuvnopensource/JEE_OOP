@@ -20,7 +20,7 @@ public class ListChange
         }
         list.add(nv);
     }
-    //region chức năng Thêm
+    //region chức năng Sửa
     public static void editById(ArrayList<NhanVien> list, NhanVien nv)
     {
         int leng = list.size();
